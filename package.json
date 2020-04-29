@@ -1,0 +1,25 @@
+{
+  "name": "discord-stats.js",
+  "version": "1.0.0",
+  "description": "A simple package to request the discordstats.xyz API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatievisTheKat/discord-stats.git"
+  },
+  "keywords": [
+    "discord",
+    "stats",
+    "api",
+    "survey"
+  ],
+  "author": "Matthew Stead",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatievisTheKat/discord-stats/issues"
+  },
+  "homepage": "https://github.com/MatievisTheKat/discord-stats#readme"
+}
