@@ -15,4 +15,6 @@ stats.rating.get(false).then(console.log); // Get ratings of Discord. Sorted des
 stats.friends.get().then(console.log); // Get average amount of friends on Discord per user
 stats.friends.get(false).then(console.log); // Get amounts of friends per user on Discord
 
+stats.user.get("MatievisTheKat").then(console.log); // Get a specific user's response
+
 // Contribute to the project! Fill out the survey here -> https://discordstats.xyz
